@@ -16,7 +16,7 @@ under load.
 | Checkout | `https://168.144.75.125/pay/<token>` (one per payment link) |
 | Admin console | https://168.144.75.125:8443 |
 | Public API | https://168.144.75.125/v1 · health: https://168.144.75.125/healthz |
-| Team | Sama Elsawaf, Amna (`amna-T` on GitHub) |
+| Team | Sama Elsawaf, Amna Traif (`amna-T` on GitHub) |
 
 The server uses a self-signed certificate (there is no domain name), so the
 browser will ask you to accept it once.
